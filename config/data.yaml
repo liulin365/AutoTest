@@ -1,0 +1,44 @@
+hero:
+  name: 安其拉
+  word: 火焰是我最喜欢的颜色
+  Hp: 445.5
+
+heros_name:
+  - 安其拉
+  - 黄忠
+  - 小乔
+
+heros:
+  - name: 黄忠
+    word: 周日被我射熄火了
+    Hp: 400
+
+hero_name_list:
+  - - 安其拉
+    - 黄忠
+    - 小乔
+
+test:
+  name: login_case1
+  request:
+    url: http://www.baidu.com
+    method: GET
+    headers:
+      Content-Type: applocation/json
+    json:
+      username: test
+      password: 123456
+
+
+
+
+
+
+
+
+
+
+
+
+
+
